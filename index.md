@@ -17,3 +17,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] study everyday
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
